@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "692742463192",
+    "project_id": "fir-cloud-storage-lintang",
+    "storage_bucket": "fir-cloud-storage-lintang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692742463192:android:70fe71c3a2d945bdee81ad",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudstoragelintang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692742463192-5c1jv91aurj37nq218qo9es9hdr7h0h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHsq1XCDl11vdLJowD4kYz4c07_7aLQTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692742463192-5c1jv91aurj37nq218qo9es9hdr7h0h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
